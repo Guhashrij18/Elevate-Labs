@@ -13,6 +13,16 @@ Clean the Mall Customer Segmentation Data by handling missing values, duplicates
 -Deliverables
 -Cleaned dataset
 
-*Learning*
-->Practiced data cleaning in Excel.
-->Understood importance of consistent and clean data for analysis.
+**Day 2 - Data Visualization and Storytelling**
+- Cleaned and preprocessed the **Sample Superstore dataset**  
+- Converted dates and extracted Year, Month, Quarter, Day  
+- Created new fields: **Shipping Duration** and **Profit Margin %**  
+- Removed duplicates and fixed missing/invalid values  
+- Exported a **Power BI ready dataset**  
+- Built Power BI visuals:
+  - KPI cards (Sales, Profit, Margin, Quantity)  
+  - Sales by Region (Map)  
+  - Sales by Category & Sub-Category  
+  - Profit by State  
+  - Sales Trend Over Time  
+  - Profit vs Discount  

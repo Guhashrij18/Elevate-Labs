@@ -32,18 +32,18 @@ Clean the Mall Customer Segmentation Data by handling missing values, duplicates
     - This project is part of Day 3 – Task 4 of my Data Analyst Internship.
     - The goal was to create an interactive Power BI dashboard to analyze sales, profit, and growth trends.
   *Dataset*
-    -> Source: Microsoft Financial Sample (Excel)
-    -> Contains data on Sales, Profit, Products, Segments, Countries, and Dates.
+    - Source: Microsoft Financial Sample (Excel)
+    - Contains data on Sales, Profit, Products, Segments, Countries, and Dates.
   *What I Did*
     - Cleaned and prepared the dataset in Power BI.
     - Created KPIs using DAX (Total Sales, Profit, Profit Margin, etc.).
     - Designed visuals:
-      -> KPI Cards
-      -> Line Chart (time-series)
-      -> Bar Chart (Profit by Segment/Product)
-      -> Donut Chart (Sales by Discount Band)
-      -> Tree Map (Sales by Category)
-      -> Table (Detailed breakdown by Product)
+      - KPI Cards
+      - Line Chart (time-series)
+      - Bar Chart (Profit by Segment/Product)
+      - Donut Chart (Sales by Discount Band)
+      - Tree Map (Sales by Category)
+      - Table (Detailed breakdown by Product)
     - Added slicers for interactivity (Year, Segment, Country, Product).
   *Deliverables*
     - Power BI Dashboard (.pbix)

@@ -55,4 +55,24 @@ Clean the Mall Customer Segmentation Data by handling missing values, duplicates
     - Sales are increasing over time.
     - Certain products/segments are more profitable.
     - High discounts reduce overall profit margins.
-  
+  Sales Dashboard – Power BI
+
+**Day - 8 A simple interactive dashboard built in Power BI using the Superstore Sales dataset**
+
+Features
+
+Line chart: Sales over time
+
+Bar chart: Sales by Region
+
+Donut chart: Sales by Category
+
+Slicer for Region
+
+Insights
+
+Sales grew from 2021–2022
+
+West region had the highest sales
+
+Technology category led in revenue
